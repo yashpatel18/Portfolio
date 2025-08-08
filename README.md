@@ -14,7 +14,7 @@ Welcome to my data science and analytics portfolio! I specialize in turning comp
 - Random Forest achieved ~90% accuracy
 - Key features: Age, Chest Pain Type, Max Heart Rate
 - **Tools**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-[🔗 View Repository](https://github.com/yashpatel18/Heart-Attack-Prediction)
+[🔗 View Repository](https://github.com/yashpatel18/Heart-Attack)
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to my data science and analytics portfolio! I specialize in turning comp
 - Encoded categorical variables and trained multiple classifiers
 - Analyzed delays using flight date, carrier, origin, destination, and schedules
 - **Tools**: Python, Pandas, NumPy, Matplotlib, Scikit-learn  
-[🔗 View Repository](https://github.com/yashpatel18/Flight-Delay-Prediction)
+[🔗 View Repository](https://github.com/yashpatel18/Flight-Delay)
 
 ---
 
@@ -57,7 +57,7 @@ Welcome to my data science and analytics portfolio! I specialize in turning comp
 - Focused on automating loan approvals
 - Applied supervised ML algorithms after data cleaning and encoding
 - **Tools**: Python (Jupyter Notebook)  
-[🔗 View Repository](https://github.com/yashpatel18/Loan-Prediction)
+[🔗 View Repository](https://github.com/yashpatel18/LoanPrediction)
 
 ---
 
