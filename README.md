@@ -36,7 +36,7 @@ Welcome to my data science and analytics portfolio! I specialize in turning comp
 - Built and evaluated ARIMA and LSTM models
 - Achieved RMSE of 6.2 using LSTM
 - **Tools**: Python, TensorFlow, Keras, Statsmodels, yfinance, Pandas  
-[🔗 View Repository](https://github.com/yashpatel18/Stock-Price-Prediction)
+[🔗 View Repository](https://github.com/yashpatel18/Stock-Prediction)
 
 ---
 
