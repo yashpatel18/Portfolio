@@ -103,7 +103,7 @@ Welcome to my data science and analytics portfolio! I specialize in turning comp
 
 ## 📬 Let's Connect
 
-- 📧 Email: yashpatel.email@gmail.com  
+- 📧 Email: iamyash1805@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/yashpatel18](https://linkedin.com/in/yashpatel18)  
 - 📁 GitHub: [github.com/yashpatel18](https://github.com/yashpatel18)
 
